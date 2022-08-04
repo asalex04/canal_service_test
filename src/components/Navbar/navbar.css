@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  height: 118px;
+  width: 100%;
+  justify-content: center;
+  background-color: #E4B062;
+  font-weight: 700;
+}
+.navbar__exit {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 40px;
+}
+.navbar__logo {
+  margin-left: 40px;
+}
+.navbar__logo_exit {
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.container {
+  width: 1140px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=navbar.css.map */

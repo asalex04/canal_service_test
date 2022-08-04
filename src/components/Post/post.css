@@ -1,0 +1,27 @@
+.post {
+  background: #FFFFFF;
+  border: 5px solid #27569C;
+  border-radius: 6px;
+  font-weight: 800;
+  font-size: 16px;
+}
+.post__wrapper {
+  margin: 25px 20px;
+}
+.post__header {
+  display: flex;
+  margin-bottom: 20px;
+}
+.post__author {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+}
+.post__author_title {
+  margin-bottom: 10px;
+}
+.post__body {
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=post.css.map */
